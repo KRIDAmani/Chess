@@ -31,10 +31,7 @@ Welcome to our **web-based chess game** built with HTML, CSS, JavaScript, and No
 
 ## 📁 Project Structure
 
-/Chess
-├── front-end/ │ ├── accueil.html │ ├── game.html │ ├── accueil_script.js │ └── game.js 
-├── back-end/ │ ├── server.js │ └── database.db
-├── package.json └── README.md
+/Chess ├── front-end/ │ ├── accueil.html │ ├── game.html │ ├── accueil_script.js │ └── game.js ├── back-end/ │ ├── server.js │ └── database.db ├── package.json └── README.md
 
 
 ## 📦 Installation & Setup
@@ -42,7 +39,7 @@ Welcome to our **web-based chess game** built with HTML, CSS, JavaScript, and No
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/KRIDAmani/Chess.git
-   cd Chess ```
+   cd Chess 
 
 2. **Install dependencies**:
     npm install 
