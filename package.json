@@ -1,15 +1,19 @@
 {
   "name": "chess",
   "version": "1.0.0",
-  "description": "To make it easy for you to get started with GitLab, here's a list of recommended next steps.",
+  "description": "Web-based chess game project using Node.js, Socket.IO, and SQLite.",
   "main": "game.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Amani Krid",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KRIDAmani/Chess"
+  },
   "dependencies": {
     "bcrypt": "^5.1.1",
     "body-parser": "^1.20.3",
