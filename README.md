@@ -45,14 +45,14 @@ Welcome to our **web-based chess game** built with HTML, CSS, JavaScript, and No
    cd Chess ```
 
 2. **Install dependencies**:
-    ```npm install 
+    npm install 
 
 3. **Run the server**:
-  ```cd back-end
-   node server.js```
+   cd back-end
+   node server.js
 
 4. **Access the game**: After running the server, open your browser and go to:
-   ```http://localhost:3000/accueil.html```
+   http://localhost:3000/accueil.html
 
 ## ⚠️ About Multiplayer
 
