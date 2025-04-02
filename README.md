@@ -45,7 +45,7 @@ Welcome to our **web-based chess game** built with HTML, CSS, JavaScript, and No
    cd Chess ```
 
 2. **Install dependencies**:
-    ```npm install ```
+    ```npm install 
 
 3. **Run the server**:
   ```cd back-end
