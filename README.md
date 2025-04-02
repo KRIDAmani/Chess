@@ -41,10 +41,13 @@ Welcome to our **web-based chess game** built with HTML, CSS, JavaScript, and No
    git clone https://github.com/KRIDAmani/Chess.git
    cd Chess 
 
-2. **Install dependencies**:
-    npm install 
+2. **Install dependencies**:  
+   Run the command: `npm install`
 
-3. **Run the server**:
+3. **Run the server**:  
+   Navigate to the back-end folder and start the server:
+
+   ```bash
    cd back-end
    node server.js
 
